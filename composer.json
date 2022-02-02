@@ -3,7 +3,7 @@
     "description": "Filter manager bundle for product lists",
     "type": "symfony-bundle",
     "homepage": "http://ongr.io",
-    "version": "6.1",
+    "version": "6.2",
     "license": "MIT",
     "authors": [
         {
@@ -14,7 +14,7 @@
     "require": {
         "php": "^7.4",
         "symfony/symfony": "^5.4.4",
-        "ongr/elasticsearch-bundle": "^6.1.1",
+        "ongr/elasticsearch-bundle": "^6.2",
         "jms/serializer-bundle": "^3.10"
     },
     "require-dev": {
